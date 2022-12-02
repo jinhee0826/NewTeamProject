@@ -1,0 +1,25 @@
+*{
+    /*글씨체*/
+
+}
+
+.homeaboutus-Box{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    margin-left: 780px;
+    margin-top: -140px;
+    
+}
+.homeaboutus-title{
+    font-size: 100px;
+    font-weight: bold;
+ 
+}
+.homeaboutus-info{
+
+}
+.homeaboutus-info2{
+
+}
+
